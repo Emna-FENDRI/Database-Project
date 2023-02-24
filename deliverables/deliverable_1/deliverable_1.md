@@ -1,5 +1,5 @@
 # Deliverable 1 (Group 55)
-Authors: Emna Fendri (297286), Antoine Magron (288416), Stephane Selim (235786)
+Authors: Emna Fendri (297286), Antoine Magron (288416) , Stephane Selim (235786)
 
 ## ER Diagram
 

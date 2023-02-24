@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Database project 2021</h1>
-    <h3>Group 55</h3>
     <h6>Stephane Selim (235786), Emna Fendri (297286), Antoine Magron (288416)</h6>
 </div>
 

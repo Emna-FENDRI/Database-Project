@@ -1,7 +1,7 @@
 # Database-Project
 
 ## Dataset
-* [parties2018.csv & victims2018.csv](https://drive.switch.ch/index.php/s/VKsJDwreSk6QITN)
+You can find the dataset here (.zip file, ~191MB): [parties2018.csv and victims2018.csv](https://drive.switch.ch/index.php/s/VKsJDwreSk6QITN)
 
 
 ## Description

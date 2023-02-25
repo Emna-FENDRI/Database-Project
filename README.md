@@ -10,7 +10,7 @@ In this project we get a set of csv files collected by the California Highway Pa
 2. Parse, clean, and load the data into a DBMS.
 3. Write queries, and, finally evaluate and optimize queries with index structures/query plan analysis in order to analyze the performance impact on generated query plans and discuss about the query optimizer decisions on querying the given dataset.
 
-In the report, we provide a detailed description of the queries and explain the necessities of indexes based on the queries and the resulting optimization.
+In the report, we provide a detailed description of the SQL queries and explain the necessities of indexes based on the queries and the resulting optimization.
 ### Authors 
 Emna Fendri : emna.fendri@epfl.ch  
 Stephan Selim  : stephan.selim@epfl.ch  

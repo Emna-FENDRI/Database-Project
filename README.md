@@ -1,5 +1,9 @@
 # Database-Project
 
+## Dataset
+* [parties2018.csv & victims2018.csv](https://drive.switch.ch/index.php/s/VKsJDwreSk6QITN)
+
+
 ## Description
 In this project we get a set of csv files collected by the California Highway Patrol, based on which we   
 1. Design the database schema and implement the relational schema.
